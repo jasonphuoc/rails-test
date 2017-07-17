@@ -1,3 +1,3 @@
 # README
 
-A test app built with ruby on rails.
+A test app built with rails.
